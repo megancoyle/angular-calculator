@@ -1,2 +1,5 @@
 # Angular Calculator
-Basic calculator written in Angular JS 1 for calculating the cost of various light bulb usage.
+Calculator for calculating the energy cost per year of using different light bulbs.
+
+## Technologies Used
+* Angular JS 1
